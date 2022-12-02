@@ -21,7 +21,7 @@
   height: 4%;
 }
 .logo > span > span {
-  color: var(--pink);
+  color: var(--black);
 }
 
 .logo > img {
@@ -35,7 +35,7 @@
   margin-top: 4rem;
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 1rem;
 }
 .menuItem {
   display: flex;
@@ -67,7 +67,7 @@
   content: "";
   width: 8px;
   height: 100%;
-  background: var(--pink);
+  background: var(--black);
   margin-right: calc(1rem - 8px);
 }
 
@@ -86,7 +86,7 @@
   .sidebar{
     position: fixed;
     z-index: 9;
-    background: #ffe0e0;
+    background: #0d0303;
     width: 55%;
     padding-right: 1rem;
     height: 100%;
@@ -106,7 +106,7 @@
     position: fixed;
     top: 2rem;
     left:60%;
-    background:#ffe0e0;
+    background:#f7f4f4;
     padding:10px;
     border-radius: 10px;
     z-index: 9;

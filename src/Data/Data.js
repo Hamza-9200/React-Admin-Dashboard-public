@@ -32,6 +32,18 @@ export const SidebarData = [
     heading: "Customers",
   },
   {
+    icon: UilUsersAlt,
+    heading: "Mechanic",
+  },
+  {
+    icon: UilUsersAlt,
+    heading: "Shop Owner",
+  },
+  {
+    icon: UilUsersAlt,
+    heading: "Rider",
+  },
+  {
     icon: UilPackage,
     heading: 'Products'
   },
